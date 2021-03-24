@@ -2,7 +2,7 @@
 
 Olá! Me chamo Marcus Vinícius Ribeiro e estou cursando Ciência da Computação pela PUC Minas, atualmente estou no terceiro período (3/8). Tenho conhecimentos em linguagem C, inglês intermediário, conhecimento em edição de vídeo pelo Sony Vegas Pro e edição de imagens pelo Adobe Photoshop.
 
-## Social Medias :camera_flash:
+## Redes Sociais :camera_flash:
  - [Instagram](https://www.instagram.com/marcusvr07/) 
  - [LinkedIn](https://www.linkedin.com/in/marcusvr07/)
  - [YouTube](https://www.youtube.com/channel/UCtlMMny3YO58mgPUBsc1_Fw)
