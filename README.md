@@ -12,7 +12,7 @@ Olá! Me chamo Marcus Vinícius Ribeiro e estou cursando Ciência da Computaçã
 
  - [Estacionamento em Linguagem C](https://github.com/Marquinnnn/ProjetoLAEDI)
  - [Restaurante usando interface gráfica em Linguagem C e KISS](https://github.com/Marquinnnn/ProjetoLAEDII)
- - [Mystery Math](https://github.com/Marquinnnn/MysteryMath)
+ - [Mystery Math (Mentoring II)](https://github.com/Marquinnnn/MysteryMath)
  
  ## Habilidades :chart_with_upwards_trend:
  
