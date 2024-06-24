@@ -1,8 +1,8 @@
 # Olá a todos!! :smile:
 
-Olá! Me chamo Marcus Vinícius Ribeiro e estou cursando Ciência da Computação pela PUC Minas, atualmente estou no quarto período (7/8). Tenho conhecimentos em linguagem C, Python e HTML/CSS, principalmente estas, inglês intermediário, conhecimento em edição de vídeo pelo Sony Vegas Pro e edição de imagens pelo Adobe Photoshop.
+Olá! Me chamo Marcus Vinícius Ribeiro e sou formado em Bacharelado em Ciência da Computação pela PUC Minas Poços de Caldas. Tenho conhecimentos em linguagem C, Python e HTML/CSS/JavaScript, principalmente estas, inglês intermediário, conhecimento em edição de vídeo pelo Sony Vegas Pro e edição de imagens pelo Adobe Photoshop.
 
-Trabalho com montagem de computadores e cable management. Atualmente estou empregado como estagiário na Prefeitura Municipal de Poços de Caldas.
+Trabalho com montagem de computadores e cable management.
 
 ## Redes Sociais :camera_flash:
  - [Instagram](https://www.instagram.com/marcusvr07/) 
